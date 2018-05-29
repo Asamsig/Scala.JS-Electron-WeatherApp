@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Electron debug Windows" type="NodeJSConfigurationType" factoryName="Node.js" application-parameters="debug" path-to-node="$PROJECT_DIR$/node_modules/.bin/electron.cmd" path-to-js-file="main.js" working-dir="$PROJECT_DIR$">
+    <method />
+  </configuration>
+</component>
